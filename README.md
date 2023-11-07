@@ -1,5 +1,9 @@
 # Terraform AWS ECS Hello Service - Fargate Deployment
 
+## Architecture Diagram
+
+![Architecture Diagram](architecture.png)
+
 ## Overview
 
 This Terraform script deploys a stateless web application as an AWS ECS service using AWS Fargate. The web application is hosted behind an Application Load Balancer (ALB) in a public subnet.
